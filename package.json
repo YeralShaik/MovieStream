@@ -1,5 +1,5 @@
 {
-  "name": "otakustream",
+  "name": "moviestream",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YeralShaik/OtakuStream.git"
+    "url": "git+https://github.com/YeralShaik/MovieStream.git"
   },
   "author": "@yeraldinshaik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/YeralShaik/OtakuStream/issues"
+    "url": "https://github.com/YeralShaik/MovieStream/issues"
   },
-  "homepage": "https://github.com/YeralShaik/OtakuStream#readme",
+  "homepage": "https://github.com/YeralShaik/MovieStream#readme",
   "dependencies": {
     "axios": "^1.6.0"
   }
