@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /* General */
 * { box-sizing: border-box; }
 
@@ -415,7 +415,7 @@ footer {
 /* Navigation */
 .inactive {
   display: none;
-=======
+}
 /* General */
 * { box-sizing: border-box; }
 
@@ -833,9 +833,3 @@ footer {
   align-items: center;
 }
 
-
-/* Navigation */
-.inactive {
-  display: none;
->>>>>>> 429f31e3926c762be8b543b2aa8af6635fda3c11
-}

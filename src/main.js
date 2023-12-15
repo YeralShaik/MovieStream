@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const api = axios.create({
   baseURL: 'https://api.themoviedb.org/3',
   headers: {
@@ -203,14 +202,7 @@ function displayVideos(videos) {
     console.warn('No hay videos disponibles para mostrar.');
   }
 }
-=======
-const api = axios.create({
-  baseURL: 'https://api.themoviedb.org/3',
-  headers: {
-    'Content-Type': 'application/json',
-    Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlZDFjNDNjYjhiMDU4MmE5MGEzNWVlMDFkNmM4NGIxMiIsInN1YiI6IjY0YzJjNGI5NzUxMTBkMDBhZTFhYmQ3YiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.OMp65hgZ4hRZ_eH11Q_qcJJklcjWPnGiDlTGz6vcKOg',
-  },
-});
+
      
 
 
@@ -388,4 +380,4 @@ async function getRelatedMoviesId(id) {
   console.error('Error al obtener la película por ID:', error);
 }
 }
->>>>>>> 429f31e3926c762be8b543b2aa8af6635fda3c11
+

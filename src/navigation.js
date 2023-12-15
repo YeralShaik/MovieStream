@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 searchFormBtn.addEventListener('click', () => {
   location.hash = '#search=' + searchFormInput.value;
@@ -174,7 +173,7 @@ function trendsPage() {
 
   getTrendingMovies();
 }
-=======
+
 
 searchFormBtn.addEventListener('click', () => {
   location.hash = '#search=' + searchFormInput.value;
@@ -345,4 +344,4 @@ function trendsPage() {
 
   getTrendingMovies();
 }
->>>>>>> 429f31e3926c762be8b543b2aa8af6635fda3c11
+
