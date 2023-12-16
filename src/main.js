@@ -202,7 +202,5 @@ function displayVideos(videos) {
     console.warn('No hay videos disponibles para mostrar.');
   }
 }
-  console.error('Error al obtener la película por ID:', error);
-}
-}
+
 

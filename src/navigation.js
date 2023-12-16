@@ -167,5 +167,5 @@ function trendsPage() {
 
 
   getTrendingMovies();
-}
+
 
